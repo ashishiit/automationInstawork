@@ -21,7 +21,7 @@ Run the scripts from the command prompt: pytest test_Search_Validation.py -s
 
 It will prompt for search terms to be entered by the user.
 
-The validation will occur for the search terms for 3 browsers.
+The validation will occur for the search terms in 3 browsers.
 
 The scripts contains the search pattern which has been pre defined and that is www.instawork.com.
 The script is going to look for the search pattern in the search results and thus determine the position of the search pattern.
