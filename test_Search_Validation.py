@@ -20,7 +20,7 @@ def driver_init(request):
     yield
     web_driver.close()
 #pre defined search pattern	
-search_pattern = 'www.zomato.com'
+search_pattern = 'www.instawork.com'
 
 #accept Google search terms as input
 search_terms = input("enter search string ").strip()
